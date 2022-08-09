@@ -1,0 +1,8 @@
+Priority list:
+    - Setup local server test environment in JS
+    - Setup general front end structure
+    - Create objects representing task and taskList
+    - Implement feature to add and remove task
+    - Implement feature to move task from one list to another
+    - Implement way to reorder task
+    - Implement simple styling
